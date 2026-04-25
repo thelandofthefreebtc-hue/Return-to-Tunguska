@@ -1,0 +1,6 @@
+{
+  "name": "Tunguska Reimagined",
+  "description": "An atmospheric music experience blending Alan Parsons' electronic space-rock with the soulful warmth of a Sade-inspired voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AUDIO_GENERATION"]
+}
